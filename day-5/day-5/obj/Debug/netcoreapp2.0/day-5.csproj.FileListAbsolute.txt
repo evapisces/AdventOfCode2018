@@ -1,0 +1,11 @@
+D:\Projects\AdventOfCode2018\day-5\day-5\bin\Debug\netcoreapp2.0\day-5.deps.json
+D:\Projects\AdventOfCode2018\day-5\day-5\bin\Debug\netcoreapp2.0\day-5.runtimeconfig.json
+D:\Projects\AdventOfCode2018\day-5\day-5\bin\Debug\netcoreapp2.0\day-5.runtimeconfig.dev.json
+D:\Projects\AdventOfCode2018\day-5\day-5\bin\Debug\netcoreapp2.0\day-5.dll
+D:\Projects\AdventOfCode2018\day-5\day-5\bin\Debug\netcoreapp2.0\day-5.pdb
+D:\Projects\AdventOfCode2018\day-5\day-5\obj\Debug\netcoreapp2.0\day-5.csprojResolveAssemblyReference.cache
+D:\Projects\AdventOfCode2018\day-5\day-5\obj\Debug\netcoreapp2.0\day-5.csproj.CoreCompileInputs.cache
+D:\Projects\AdventOfCode2018\day-5\day-5\obj\Debug\netcoreapp2.0\day-5.AssemblyInfoInputs.cache
+D:\Projects\AdventOfCode2018\day-5\day-5\obj\Debug\netcoreapp2.0\day-5.AssemblyInfo.cs
+D:\Projects\AdventOfCode2018\day-5\day-5\obj\Debug\netcoreapp2.0\day-5.dll
+D:\Projects\AdventOfCode2018\day-5\day-5\obj\Debug\netcoreapp2.0\day-5.pdb
