@@ -11,9 +11,9 @@ namespace day_2
             var testFileLines = System.IO.File.ReadAllLines("test-input-2.txt");
             var fileLines = System.IO.File.ReadAllLines("puzzle-input.txt");
 
-//            PuzzlePartA(fileLines);
+            PuzzlePartA(fileLines);
 
-            PuzzlePartB(testFileLines);
+            PuzzlePartB(fileLines);
 
             Console.Read();
         }
@@ -53,10 +53,29 @@ namespace day_2
         }
 
         public static void PuzzlePartB(string[] fileLines) {
-            var orderedLines = fileLines.OrderBy(f => f);
+            var orderedLines = fileLines.OrderBy(f => f).ToList();
 
-            foreach(var line in orderedLines) {
-                Console.WriteLine(line);
+            for (int i = 0; i < orderedLines.Count(); i++)
+            {
+                for (int j = i+1; j < orderedLines.Count()-i; j++) 
+                {
+                    var differingChars = 0;
+                    var sameChars = new List<char>();
+                    for (var k = 0; k < orderedLines[i].Length; k++) 
+                    {
+                        if (orderedLines[i][k] != orderedLines[j][k]) {
+                            differingChars++;
+                        } else {
+                            sameChars.Add(orderedLines[i][k]);
+                        }
+                    }
+
+                    if (differingChars == 1) {
+                        Console.WriteLine($"orderedLines[{i}] = {orderedLines[i]}, orderedLines[{j}] = {orderedLines[j]}");
+                        Console.WriteLine($"same chars = {new String(sameChars.ToArray())}");
+                        break;
+                    }
+                }
             }
         }
     }
