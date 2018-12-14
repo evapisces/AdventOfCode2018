@@ -1,0 +1,11 @@
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\bin\Debug\netcoreapp2.1\Day3.deps.json
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\bin\Debug\netcoreapp2.1\Day3.runtimeconfig.json
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\bin\Debug\netcoreapp2.1\Day3.runtimeconfig.dev.json
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\bin\Debug\netcoreapp2.1\Day3.dll
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\bin\Debug\netcoreapp2.1\Day3.pdb
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\obj\Debug\netcoreapp2.1\Day3.csprojAssemblyReference.cache
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\obj\Debug\netcoreapp2.1\Day3.csproj.CoreCompileInputs.cache
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\obj\Debug\netcoreapp2.1\Day3.AssemblyInfoInputs.cache
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\obj\Debug\netcoreapp2.1\Day3.AssemblyInfo.cs
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\obj\Debug\netcoreapp2.1\Day3.dll
+C:\Users\evania.mans\Documents\Visual Studio 2017\Projects\Day3\Day3\obj\Debug\netcoreapp2.1\Day3.pdb
