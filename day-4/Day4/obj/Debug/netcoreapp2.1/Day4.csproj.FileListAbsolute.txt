@@ -1,0 +1,11 @@
+C:\Users\evania.mans\Learning\Day4\Day4\bin\Debug\netcoreapp2.1\Day4.deps.json
+C:\Users\evania.mans\Learning\Day4\Day4\bin\Debug\netcoreapp2.1\Day4.runtimeconfig.json
+C:\Users\evania.mans\Learning\Day4\Day4\bin\Debug\netcoreapp2.1\Day4.runtimeconfig.dev.json
+C:\Users\evania.mans\Learning\Day4\Day4\bin\Debug\netcoreapp2.1\Day4.dll
+C:\Users\evania.mans\Learning\Day4\Day4\bin\Debug\netcoreapp2.1\Day4.pdb
+C:\Users\evania.mans\Learning\Day4\Day4\obj\Debug\netcoreapp2.1\Day4.csprojAssemblyReference.cache
+C:\Users\evania.mans\Learning\Day4\Day4\obj\Debug\netcoreapp2.1\Day4.csproj.CoreCompileInputs.cache
+C:\Users\evania.mans\Learning\Day4\Day4\obj\Debug\netcoreapp2.1\Day4.AssemblyInfoInputs.cache
+C:\Users\evania.mans\Learning\Day4\Day4\obj\Debug\netcoreapp2.1\Day4.AssemblyInfo.cs
+C:\Users\evania.mans\Learning\Day4\Day4\obj\Debug\netcoreapp2.1\Day4.dll
+C:\Users\evania.mans\Learning\Day4\Day4\obj\Debug\netcoreapp2.1\Day4.pdb
